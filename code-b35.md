@@ -1,8 +1,9 @@
 # Batch B35 Jenkins Pipeline Code
-## subtitle
-### micro sub
-#### mini sub
-##### nano sub
+1. freestyle project
+2. pipeline project
+   - docker
+   - maven
+   - git
 ````
 yum install nginx
 ````
