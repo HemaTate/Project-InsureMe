@@ -1,4 +1,4 @@
-# ${\color {red} {Batch B35 Jenkins Pipeline Code😃}}$
+# $${\color {red} \textbf {Batch B35 Jenkins Pipeline Code😃}}$$
 ![Screenshot (335)](https://github.com/user-attachments/assets/3b7b7534-d798-49ac-abfd-ba2d88030786)
 
 1. freestyle project🏴‍☠️
