@@ -3,6 +3,9 @@
 ### micro sub
 #### mini sub
 ##### nano sub
+````
+yum install nginx
+````
 
 ```groovy
 pipeline {
