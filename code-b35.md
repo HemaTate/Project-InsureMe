@@ -6,9 +6,9 @@
    - docker
    - maven
    - git
-````
+```bash
 yum install nginx
-````
+```
 
 ```groovy
 pipeline {
